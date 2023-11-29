@@ -1,6 +1,8 @@
 {
-  "latest": "2.29.14",
-  "updateurl": "https://github.com/fox-alt/DiceScript/blob/main/Dice.luac?raw=true",
+  "latest": "2.29.15",
+  "updateurl_srp": "https://github.com/fox-alt/DiceScript/blob/main/srp/Dice.luac?raw=true",
+  "updateurl_evolve": "https://github.com/fox-alt/DiceScript/blob/main/evolve/Dice.luac?raw=true",
+  "updateurl_gambit": "https://github.com/fox-alt/DiceScript/blob/main/srp/Dice.luac?raw=true",
   "premium_surnames": "Dice",
   "users": "",
   "banned_surnames": "Soptovskiy,Soptovski,Kinoshita,Raikkonen"
