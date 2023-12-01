@@ -1,9 +1,12 @@
 {
-  "latest": "2.29.16",
+  "latest": "2",
   "updateurl_srp": "https://github.com/fox-alt/DiceScript/blob/main/srp/Dice.luac?raw=true",
   "updateurl_evolve": "https://github.com/fox-alt/DiceScript/blob/main/evolve/Dice.luac?raw=true",
   "updateurl_gambit": "https://github.com/fox-alt/DiceScript/blob/main/srp/Dice.luac?raw=true",
   "premium_surnames": "Dice",
+  "version_srp": ".29.17 - San Andreas",
+  "version_evolve": ".0.1 - Evolve",
+  "version_gambit": ".0.0 - Gambit",
   "users": "",
-  "banned_surnames": "Soptovskiy,Soptovski,Kinoshita,Raikkonen"
+  "banned_surnames": "Mackenzi,Soptovskiy,Soptovski,Kinoshita,Raikkonen,Sultanov"
 }
