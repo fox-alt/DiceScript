@@ -3,10 +3,10 @@
   "updateurl_srp": "https://github.com/fox-alt/DiceScript/blob/main/srp/Dice.luac?raw=true",
   "updateurl_evolve": "https://github.com/fox-alt/DiceScript/blob/main/srp/Dice.luac?raw=true",
   "updateurl_gambit": "https://github.com/fox-alt/DiceScript/blob/main/srp/Dice.luac?raw=true",
-  "premium_surnames": "Dice,Remy,Ymer",
-  "version_srp": ".35.13 - San Andreas",
-  "version_evolve": ".35.13 - San Andreas",
-  "version_gambit": ".0.0 - Gambit",
+  "premium_surnames": "Dice,Remy",
+  "version_srp": ".35.14 - San Andreas",
+  "version_evolve": ".35.14 - San Andreas",
+  "version_gambit": ".35.14 - San Andreas",
   "users": "",
   "banned_surnames": "Mackenzi,"
 }
