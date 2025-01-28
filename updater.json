@@ -3,7 +3,7 @@
   "updateurl_srp": "https://github.com/fox-alt/DiceScript/blob/main/srp/Dice.luac?raw=true",
   "updateurl_evolve": "https://github.com/fox-alt/DiceScript/blob/main/srp/Dice.luac?raw=true",
   "updateurl_evolve_light": "https://github.com/fox-alt/DiceScript/blob/main/evolve/Dice.luac?raw=true",
-  "updateurl_evolve_light": "https://github.com/fox-alt/DiceScript/blob/main/evolve/DiceIRC.luac?raw=true",
+  "updateurl_evolve_irc": "https://github.com/fox-alt/DiceScript/blob/main/evolve/DiceIRC.luac?raw=true",
   "updateurl_gambit": "https://github.com/fox-alt/DiceScript/blob/main/srp/Dice.luac?raw=true",
   "premium_surnames": "Dice,Remy,Asato",
   "version_srp": ".35.14 - San Andreas",
