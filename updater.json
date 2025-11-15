@@ -1,7 +1,7 @@
 {
   "latest": "2",
   "updateurl_srp": "https://github.com/fox-alt/DiceScript/blob/main/srp/Dice.luac?raw=true",
-  "updateurl_evolve": "https://github.com/fox-alt/DiceScript/blob/main/evolve/Dice.luac?raw=true",
+  "updateurl_evolve": "https://github.com/fox-alt/DiceScript/blob/main/srp/Dice.luac?raw=true",
   "updateurl_evolve_light": "https://github.com/fox-alt/DiceScript/blob/main/evolve/Dice.luac?raw=true",
   "updateurl_evolve_irc": "https://github.com/fox-alt/DiceScript/blob/main/evolve/DiceIRC.luac?raw=true",
   "updateurl_evolve_online": "https://github.com/fox-alt/DiceScript/blob/main/evolve/DiceOnline.luac?raw=true",
